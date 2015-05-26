@@ -1,0 +1,23 @@
+{
+  "name": "Journey",
+  "version": "0.0.1",
+  "homepage": "https://github.com/PhilosophicalPenguin/Journey",
+  "authors": [
+    "Derek <derek.b26@gmail.com>"
+  ],
+  "keywords": [
+    "journey"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.13.3",
+    "jquery": "~2.1.4"
+  }
+}
